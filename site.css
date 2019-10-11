@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background: #666666;
+}
+
+#header {
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+}
+
+#sandbox {
+    display: block;
+    border: solid;
+    border-color: white;
+    height: 100%;
+    background: #bbbbbb;
+    margin: 4em 4em 0 4em;
+    padding: 20px;
+}
+#banner-text {
+    width: 100%;
+    border-bottom: 5px solid #61C250;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0 0;
+}
